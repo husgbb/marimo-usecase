@@ -1,0 +1,1 @@
+- To reflect agent edits in real time, run the notebook with `pixi run --script pixi-sandbox/notebook.py --experimental -- --watch`.

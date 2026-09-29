@@ -15,5 +15,5 @@ The only requirement is [pixi](https://pixi.sh).
 (Notebooks run in marimo's sandbox mode)
 
 ```bash
-pixi exec -s marimo -s uv marimo edit --sandbox <notebook>.py
+pixi run --script pixi-sandbox/notebook.py --experimental
 ```
